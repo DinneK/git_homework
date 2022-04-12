@@ -10,6 +10,9 @@ Two strategies I'm committed to trying during the rest of Mod 0:
 
 2. Implementing my calendar to take away the stress of deciding "what I have to do right now."
 
+3. GitHub is a challenge
+
+
 Shoutout:
 
 To my entire family, they have gone above and beyond to make sure as many of my responsibilities as possible are taken off my hands, so that I can concentrate on my studies.
